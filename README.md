@@ -5,7 +5,7 @@
 - 🐍 Desenvolvo animações matemáticas utilizando a ferramenta **Manim**.
 - 📟 Trabalho com projetos de **Eletrônica** e microcontroladores.
 - 🔬 Meu objetivo é atuar na área de pesquisa científica.
-- 📚 Atualmente focado na minha graduação.
+- 📚 Atualmente focado no estudo da matemática básica.
 
 ###
 
