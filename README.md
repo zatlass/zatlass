@@ -9,7 +9,7 @@
 
 ###
 
-Sou apaixonado no que estudo. Atualmente utilizo o **Python** para simulações e animações com **Manim**, além de manusear com **eletrônica** e documentação técnica com **LaTeX**.
+Sou apaixonado no que estudo. Atualmente utilizo o **Python** para simulações e animações com **Manim**, além de manusear com **eletrônica** e escrever documentação técnica com **LaTeX**.
 
 
 
