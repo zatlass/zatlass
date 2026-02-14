@@ -7,14 +7,15 @@
 - 🔬 Meu objetivo é atuar na área de pesquisa científica.
 - 📚 Atualmente focado no estudo da matemática básica.
 
- 🇫🇷: Je peut bien parler français!
- 🇬🇧: I speak english fluently! 
- 🇪🇦: Solo un poco de español.
+---
+
+- 🇫🇷: Je peut bien parler français!
+- 🇬🇧: I speak english fluently! 
+- 🇪🇦: Solo un poco de español.
 
 ###
 
 Sou apaixonado no que estudo. Atualmente utilizo o **Python** para simulações e animações com **Manim**, além de manusear com **eletrônica** e escrever documentação técnica com **LaTeX**.
-
 
 
 ### 📱 Entre em contato!
@@ -31,5 +32,7 @@ Sou apaixonado no que estudo. Atualmente utilizo o **Python** para simulações 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+
 
 
