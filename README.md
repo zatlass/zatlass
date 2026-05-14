@@ -1,21 +1,22 @@
-# 👋 Davi Lemos de Souza
+# Davi Lemos de Souza
 
 ### 🔭 About me
 - 🎓 Physics student in **Universidade de Brasília (UnB)**.
 - 🐍 I create math animations using **Manim**.
 - 📟 I work whit **Eletronics** and microcontrollers projects.
+- 🛠️ Dealing whit data analysis whit **Python**
 - 🔬  My goal is to work in scientific research.
 
 ---
 
 - 🇫🇷: Je peut bien parler français!
 - 🇬🇧: I speak english fluently! 
-- 🇪🇦: Solo un poco de español.
+- 🇪🇦: Solo un poco de es  pañol.
 - 🇧🇷: Im brazilian native.
 
 ###
 
-I am passionate about my field of study. Currently, I use **Python** for simulations and animations with **Manim**, as well as for some amateur projects involving artificial intelligence. I also work with **electronics** and write technical documentation using **LaTeX**..
+I am passionate about my field of study. Currently, I use **Python** for simulations using ML and animations with **Manim**, as well as for some amateur projects involving AI.
 
 
 ### 📱 Get in touch!
