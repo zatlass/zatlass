@@ -1,7 +1,7 @@
 # About me!
 - 🎓 Physics student in **Universidade de Brasília (UnB)**.
 - 📟 I work whit **Eletronics** and microcontrollers projects.
-- 🛠️ Dealing whit data analysis whit **Python**
+- 🛠️ Dealing whit data analysis whit **Python** and AI
 - 🔬  My goal is to work in scientific research.
 
 ---
